@@ -29,13 +29,5 @@
     </ol>
   </div>
 
-  <div style="text-align: center;">
-    <p style="color: #fff; margin-bottom: 10px;">
-      Explore Keras documentation
-      <a href="https://keras.io/" target="_blank" style="text-decoration: none; color: #007BFF; margin-left: 5px;">
-        🌐 Keras Documentation
-      </a>
-    </p>
-  </div>
 
 </div>
